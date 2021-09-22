@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Simple Calculator</string>
+    <string name="p">/</string>
+    <string name="c">C</string>
+    <string name="one">पहला मान दर्ज करें</string>
+    <string name="two">दूसरा मान दर्ज करें</string>
+    <string name="plus">+</string>
+    <string name="x">x</string>
+    <string name="mi">-</string>
+</resources>
